@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "644266157156",
+    "project_id": "devops-85a11",
+    "storage_bucket": "devops-85a11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644266157156:android:aec968ecfcd0b530f62b71",
+        "android_client_info": {
+          "package_name": "com.example.medics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKFUkCpGMV-pPH1AX1BYq5ChGXVxOfkiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
