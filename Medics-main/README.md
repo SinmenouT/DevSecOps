@@ -2,7 +2,7 @@
 
 # Output
 
-![maxresdefault](https://github.com/MuhammadDanishMalik/Medics/assets/140817259/9a9df5c5-380f-4e2d-9986-a54c8ce1dcae)
+
 
 
 ## Getting Started
